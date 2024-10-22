@@ -11,7 +11,7 @@
   "BlacklistedUsers": {},
   "Announcement": {
     "text": "Sample announcement",
-    "expiretime": 1729587020.965,
+    "expiretime": 1729587120.075,
     "targets": "all"
   },
   "KillVape": false
